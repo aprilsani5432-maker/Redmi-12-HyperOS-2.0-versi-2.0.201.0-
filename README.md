@@ -1,4 +1,4 @@
-Redmi 12 HyperOS 2.0.versi 2.0.201.0
+koRedmi 12 HyperOS 2.0.versi 2.0.201.0
 Desain bodi flat yang tahan debu dan percikan air
 Layar IPS LCD 90 Hz
 SoC kelas entri MediaTek Helio G88 yang bertenaga
