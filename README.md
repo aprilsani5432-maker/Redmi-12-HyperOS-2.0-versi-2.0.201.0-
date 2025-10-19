@@ -1,4 +1,9 @@
 Redmi 12 HyperOS 2.0.versi 2.0.201.0
+Desain bodi flat yang tahan debu dan percikan air
+Layar IPS LCD 90 Hz
+SoC kelas entri MediaTek Helio G88 yang bertenaga
+Konfigurasi tiga kamera belakang fungsional
+Baterai 5000 mAh yang didukung pengisian cepat 18 Watt
 Tahun Rilis	2023
 Jaringan	2G, 3G, 4G
 SIM Card	Dual SIM (Slot Hybrid)
